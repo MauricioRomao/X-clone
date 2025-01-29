@@ -2,6 +2,7 @@
   "name": "codeonthelimit",
   "version": "0.1.0",
   "private": true,
+  "description": "Clone do X (Twitter), responsivo",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
